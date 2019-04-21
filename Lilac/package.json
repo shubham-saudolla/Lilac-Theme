@@ -1,0 +1,21 @@
+{
+    "name": "Lilac",
+    "displayName": "Lilac",
+    "description": "A dark theme with pastel colours.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lilac",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Lilac-color-theme.json"
+            }
+        ]
+    }
+}
