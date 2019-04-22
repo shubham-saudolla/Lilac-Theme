@@ -482,7 +482,7 @@
 		"focusBorder": "#a29dfa",
 		"button.background": "#b657ff",
 		"button.foreground": "#ffffff",
-		"panel.background": "#211d26",
+		"panel.background": "#000000",
 		"editorWidget.background": "#211d26",
 		"editorWidget.border": "#3b3442",
 		"panelTitle.activeBorder": "#a29dfa",
