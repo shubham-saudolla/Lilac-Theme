@@ -1,4 +1,4 @@
-<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png"/>
+<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png" width = "400"/>
 
 # Lilac
 

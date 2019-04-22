@@ -4,5 +4,5 @@
 out/
 node_modules/
 .DS_Store
-/themes
 /ui/
+*.vscodeignore

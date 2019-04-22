@@ -1,9 +1,13 @@
 {
     "name": "lilac",
+    "version": "1.0.0",
     "displayName": "Lilac",
     "description": "A dark theme with pastel colours.",
-    "version": "1.0.0",
-    "publisher": "shubham-saudolla",
+    "publisher": "shubhamsaudolla",
+    "repository": "https://github.com/shubham-saudolla/Lilac-Theme.git",
+    "license": "MIT",
+    "icon": "icon.png",
+    "keywords": ["lilac", "pastel", "dark", "theme", "aesthetic", "goth"],
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -14,12 +18,7 @@
         "themes": [{
             "label": "Lilac",
             "uiTheme": "vs-dark",
-            "path": "./themes/Lilac-color-theme.json",
-            "id": "Lilac"
+            "path": "themes/Lilac-color-theme.json"
         }]
-    },
-    "icon": "\\themes\\lilacIcon128px.png",
-    "repository": {
-        "url": "https://github.com/shubham-saudolla/Lilac-Theme"
     }
 }
