@@ -1,13 +1,18 @@
-# README
-## This is the README for your extension "Lilac"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png"/>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Lilac
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Lilac is a dark color theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
 
-**Enjoy!**
+To show support for the project, you can do any (or many!) of the following:
+
+- [Star the repository.](https://github.com/shubham-saudolla/Lilac-Theme)
+- [Follow me on twitter, and say hi!](https://twitter.com/joyDivided13)
+- [Follow me on Instagram.](https://www.instagram.com/s.phoenix99/)
+- [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
+
+This theme was inspired by [https://github.com/rainglow/vscode](https://github.com/rainglow/vscode). This is the first theme I have ever created, and is a fork of Rainglow's Lavender (Contrast) theme.
+
+If you'd like to report a bug with the theme, please raise an issue with the repository.
+
+Shubham.
