@@ -8,6 +8,8 @@
 
 Lilac is a dark color theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
 
+<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" width="700"/></a>
+
 To show support for the project, you can do any (or many!) of the following:
 
 - [Star the repository.](https://github.com/shubham-saudolla/Lilac-Theme)
