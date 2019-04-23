@@ -1,7 +1,5 @@
 # Change Log
-All notable changes to the "Lilac" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.5 | 23.04.2019
 
-## [Unreleased]
-- Initial release
+Stable release with the correct project structure
