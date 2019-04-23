@@ -1,5 +1,6 @@
 {
-	"name": "lavender-contrast",
+	// lilc (pourpre: #B666D2)
+	"name": "lilac",
 	"type": "dark",
 	"tokenColors": [{
 			"settings": {
@@ -455,7 +456,7 @@
 		"activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#a29dfa",
 		"badge.foreground": "#ffffff",
-		"statusBar.background": "#a29dfa",
+		"statusBar.background": "#B666D2",
 		"statusBar.foreground": "#000000",
 		"editorGroup.background": "#100e12",
 		"tab.inactiveBackground": "#121014",
@@ -471,7 +472,7 @@
 		"editorWhitespace.foreground": "#211d26",
 		"editorRuler.foreground": "#211d26",
 		"editorLink.activeForeground": "#a29dfa",
-		"statusBar.noFolderBackground": "#b657ff",
+		"statusBar.noFolderBackground": "#708090",
 		"input.background": "#000000",
 		"input.foreground": "#e0ceed",
 		"input.border": "#2e2834",
