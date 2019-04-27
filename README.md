@@ -14,7 +14,6 @@ To show support for the project, you can do any (or many!) of the following:
 
 - [Star the repository.](https://github.com/shubham-saudolla/Lilac-Theme)
 - [Follow me on twitter, and say hi!](https://twitter.com/joyDivided13)
-- [Follow me on Instagram.](https://www.instagram.com/s.phoenix99/)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
 
 ### Easy Installation
@@ -39,7 +38,11 @@ To override the status bar colors, add the following to your settings JSON. (Cha
 }
 ```
 
-This theme was inspired by [https://github.com/rainglow/vscode](https://github.com/rainglow/vscode). This is the first theme I have ever created, and is a fork of Rainglow's Lavender (Contrast) theme.
+This theme was inspired by [Rainglow](https://github.com/rainglow/vscode). This is the first theme I have ever created, and is a fork of Rainglow's Lavender (Contrast) theme.
+
+The file icons used in the screenshot are from the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+
+The font is [Fira-Code](https://github.com/tonsky/FiraCode).
 
 If you'd like to report a bug with the theme, please raise an issue with the repository.
 
