@@ -1,6 +1,6 @@
 {
     "name": "lilac",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "displayName": "Lilac",
     "description": "A dark theme with pastel colours.",
     "publisher": "shubham-saudolla",
@@ -25,10 +25,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Lilac",
-            "uiTheme": "vs-dark",
-            "path": "themes/Lilac-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Lilac",
+                "uiTheme": "vs-dark",
+                "path": "themes/Lilac-color-theme.json"
+            }
+        ]
     }
 }
