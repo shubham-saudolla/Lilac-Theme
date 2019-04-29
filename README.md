@@ -2,9 +2,9 @@
 
 ## Lilac
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 
 Lilac is a dark color theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
 
