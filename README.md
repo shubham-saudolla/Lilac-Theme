@@ -6,7 +6,7 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 
-Lilac is a dark color theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
+Lilac is a dark colour theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
 
 <a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" width="700"/></a>
 
@@ -18,13 +18,17 @@ To show support for the project, you can do any (or many!) of the following:
 
 ### Easy Installation
 
-To install the color themes, just use the extensions tab within VS Code and search for 'Lilac'.
+To install the color theme, just use the extensions tab within VS Code and search for 'Lilac'.
 
 Once installed, themes can be switched using the menu item `Code -> Preferences -> Color Theme`.
 
 ### Manual Installation
 
 Clone the repository into `~/.vscode/extensions` and restart the editor.
+
+### Lilac for Hyper
+
+Lilac is also available for Hyper, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
 ### Useful Information
 
