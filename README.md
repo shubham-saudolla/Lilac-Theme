@@ -9,10 +9,18 @@
 
 Lilac is a dark colour theme with pretty pastel colours.
 
-<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png"/></a>
+<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" width = "769"/></a>
 
 [![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 </div>
+
+---
+
+This theme improves upon Rainglow's Lavender (Contrast) theme, with a black terminal background, improved statusbar visibility when a workspace is open (black text on a lilac background), and better visual cues (statusbar with a white background and black text when no folder is open), etc. It is designed to be aesthetically pleasing and caters to the pastel-goth chic within me.
+
+The theme is easy on the eyes, with a black background for the editor and bright pastel text highlighting.
+
+It is also available for Hyper terminal.
 
 ---
 
