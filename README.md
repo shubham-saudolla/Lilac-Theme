@@ -1,14 +1,22 @@
-<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png" width = "400"/>
+<div align = "center">
+<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacIconFull.png" width = "200"/>
 
-## Lilac
+# Lilac
 
-[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 
-Lilac is a dark colour theme with pretty pastel colours for [Visual Studio Code](https://code.visualstudio.com/).
+Lilac is a dark colour theme with pretty pastel colours.
 
-<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" width="700"/></a>
+<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png"/></a>
+
+[![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+</div>
+
+---
+
+## Support the project
 
 To show support for the project, you can do any (or many!) of the following:
 
@@ -16,21 +24,29 @@ To show support for the project, you can do any (or many!) of the following:
 - [Follow me on twitter, and say hi!](https://twitter.com/joyDivided13)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
 
-### Easy Installation
+---
+
+## Easy Installation
 
 To install the color theme, just use the extensions tab within VS Code and search for 'Lilac'.
 
 Once installed, themes can be switched using the menu item `Code -> Preferences -> Color Theme`.
 
-### Manual Installation
+---
+
+## Manual Installation
 
 Clone the repository into `~/.vscode/extensions` and restart the editor.
 
-### Lilac for Hyper
+---
+
+## Lilac for Hyper
 
 Lilac is also available for Hyper, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
-### Useful Information
+---
+
+## Useful Information
 
 To override the status bar colors, add the following to your settings JSON. (Change the colors as you see fit.)
 
