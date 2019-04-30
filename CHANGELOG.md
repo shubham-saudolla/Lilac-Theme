@@ -2,4 +2,8 @@
 
 ## 1.0.5 | 23.04.2019
 
-Stable release with the correct project structure
+Stable release with the correct project structure.
+
+## 1.1.0 | 29.04.2019
+
+Release with a drastically improved readme.
