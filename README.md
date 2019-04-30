@@ -66,4 +66,4 @@ The font is [Fira-Code](https://github.com/tonsky/FiraCode).
 
 If you'd like to report a bug with the theme, please raise an issue with the repository.
 
-Shubham.
+👾 Shubham.
