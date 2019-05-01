@@ -16,7 +16,7 @@ Lilac is a dark colour theme with pretty pastel colours.
 
 ---
 
-This theme improves upon Rainglow's Lavender (Contrast) theme, with a black terminal background, improved statusbar visibility when a workspace is open (black text on a lilac background), and better visual cues (statusbar with a white background and black text when no folder is open), etc. It is designed to be aesthetically pleasing and caters to the pastel-goth chic within me.
+This theme improves upon Rainglow's Lavender (Contrast) theme, with a black terminal background, improved statusbar visibility when a workspace is open (black text on a lilac background), and better visual cues (statusbar with a white background and black text when no folder is open), etc. It is designed to be aesthetically pleasing and caters to the pastel-goth chick within me.
 
 The theme is easy on the eyes, with a black background for the editor and bright pastel text highlighting.
 
