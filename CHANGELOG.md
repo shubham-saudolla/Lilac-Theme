@@ -11,3 +11,7 @@ Release with a drastically improved readme.
 ## 1.1.3 | 20.05.2019
 
 Changed the statusbar background colour to Lilac.
+
+## 1.1.4 | 03.06.2019
+
+Added a lilac colour highlight to the modified files tabs.
