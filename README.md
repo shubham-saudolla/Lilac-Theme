@@ -51,7 +51,7 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ## Lilac for Hyper
 
-Lilac is also available for Hyper, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
+Lilac theme is also available for Hyper, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
 ---
 
