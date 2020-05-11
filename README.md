@@ -11,7 +11,7 @@ Lilac is a dark colour theme with pretty pastel colours.
 
 <a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacCapture.png" width = "769"/></a>
 
-[![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a29dfa)](https://code.visualstudio.com/download)
 </div>
 
 ---
@@ -26,9 +26,10 @@ It is also available for Hyper terminal.
 
 ## Support the project
 
-To show support for the project, you can do any (or many!) of the following:
+To show support for the project, you can
 
 - [Star the repository.](https://github.com/shubham-saudolla/Lilac-Theme)
+- [Give the theme 5 stars.](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 - [Follow me on Twitter, and say hi!](https://twitter.com/joyDivided13)
 - [Follow me on Instagram.](https://www.instagram.com/s.phoenix99/)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
@@ -51,7 +52,7 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ## Lilac for Hyper
 
-Lilac theme is also available for Hyper, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
+Lilac theme is also available for the Hyper terminal, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
 ---
 
