@@ -455,6 +455,7 @@
 		"activityBarBadge.background": "#a29dfa",
 		"activityBarBadge.foreground": "#ffffff",
 		"tab.activeModifiedBorder": "#9D89E2",
+		"tab.activeBorder": "#9D89E2",
 		"tab.inactiveModifiedBorder": "#9D89E2",
 		"tab.unfocusedActiveModifiedBorder": "#9D89E2",
 		"tab.unfocusedInactiveModifiedBorder": "#9D89E2",

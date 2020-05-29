@@ -50,7 +50,7 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ---
 
-## Lilac for Hyper
+## Lilac for Hyper Terminal
 
 Lilac theme is also available for the Hyper terminal, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
