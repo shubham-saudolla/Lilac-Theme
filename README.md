@@ -20,7 +20,7 @@ This theme improves upon Rainglow's Lavender (Contrast) theme, with a black term
 
 The theme is easy on the eyes, with a black background for the editor and bright pastel text highlighting.
 
-It is also available for Hyper terminal.
+Lilac is also available for Hyper terminal.
 
 ---
 
@@ -68,7 +68,7 @@ To override the status bar colors, add the following to your settings JSON. (Cha
 }
 ```
 
-This theme was inspired by [Rainglow](https://github.com/rainglow/vscode). This is the first theme I have ever created, and is a fork of Rainglow's Lavender (Contrast) theme.
+This theme was inspired by [Rainglow](https://github.com/rainglow/vscode).
 
 The file icons used in the screenshot are from the [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
 
