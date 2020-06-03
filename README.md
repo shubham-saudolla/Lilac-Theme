@@ -9,7 +9,7 @@
 
 Lilac is a dark colour theme with pretty pastel colours.
 
-<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacScreenshot.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacCapture.png" width = "769"/></a>
+<a href="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacCapture.png" target="_blank"><img src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacCapture.png" width = "769"/></a>
 
 [![Download](https://img.shields.io/static/v1.svg?label=Download&message=VS%20Code&style=for-the-badge&labelColor=000000&color=a29dfa)](https://code.visualstudio.com/download)
 </div>
