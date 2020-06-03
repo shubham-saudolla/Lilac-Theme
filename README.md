@@ -19,8 +19,8 @@ Lilac is a dark colour theme with pretty pastel colours.
 This theme improves upon Rainglow's Lavender (Contrast) theme with
 
 - A darker terminal background
-- A coloured highlight for both active editor tabs as well as dirty tabs
-- Improved statusbar visibility; the statusbar is coloured when a folder/workspace is open and white when not.
+- A coloured highlight for both, the active editor tabs as well as dirty tabs
+- Improved statusbar visibility; the colour of the statusbar indicates whether a workspace or a folder is open or not.
 
 Lilac was designed to be aesthetically pleasing and caters to the pastel-goth chick within me.
 
@@ -62,7 +62,7 @@ Lilac is available for the Firefox browser, [here](https://addons.mozilla.org/en
 
 ## Lilac for Hyper Terminal
 
-Lilac theme is also available for the Hyper terminal, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
+Lilac is also available for the Hyper terminal, [here](https://github.com/shubham-saudolla/hyper-lilac-theme).
 
 ---
 
