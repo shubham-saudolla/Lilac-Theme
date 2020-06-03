@@ -5,7 +5,7 @@
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 [![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
+[![Rating](https://img.shields.io/visual-studio-marketplace/stars/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 
 Lilac is a dark colour theme with pretty pastel colours.
 
@@ -16,11 +16,15 @@ Lilac is a dark colour theme with pretty pastel colours.
 
 ---
 
-This theme improves upon Rainglow's Lavender (Contrast) theme, with a black terminal background, improved statusbar visibility when a workspace is open (black text on a lilac background), and better visual cues (statusbar with a white background and black text when no folder is open), etc. It is designed to be aesthetically pleasing and caters to the pastel-goth chick within me.
+This theme improves upon Rainglow's Lavender (Contrast) theme with
 
-The theme is easy on the eyes, with a black background for the editor and bright pastel text highlighting.
+- A darker terminal background
+- A coloured highlight for both active editor tabs as well as dirty tabs
+- Improved statusbar visibility; the statusbar is coloured when a folder/workspace is open and white when not.
 
-Lilac is also available for Hyper terminal.
+Lilac was designed to be aesthetically pleasing and caters to the pastel-goth chick within me.
+
+The theme is also available for the Firefox browser and the Hyper terminal.
 
 ---
 
@@ -47,6 +51,12 @@ Once installed, themes can be switched using the menu item `Code -> Preferences 
 ## Manual Installation
 
 Clone the repository into `~/.vscode/extensions` and restart the editor.
+
+---
+
+## Lilac for Firefox
+
+Lilac is available for the Firefox browser, [here](https://addons.mozilla.org/en-US/firefox/addon/lilactheme/).
 
 ---
 
