@@ -66,6 +66,12 @@ Lilac is also available for the Hyper terminal, [here](https://github.com/shubha
 
 ---
 
+## Lilac for Kermit Terminal
+
+Lilac is also available for the [Kermit](https://github.com/orhun/kermit) terminal, [here](https://github.com/orhun/base16-kermit/blob/master/themes/base16-lilac.config).
+
+---
+
 ## Useful Information
 
 To override the status bar colors, add the following to your settings JSON. (Change the colors as you see fit.)
