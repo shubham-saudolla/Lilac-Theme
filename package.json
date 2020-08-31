@@ -21,7 +21,8 @@
         "pink",
         "synthwave",
         "vaporwave",
-        "contrast"
+        "contrast",
+        "pretty"
     ],
     "engines": {
         "vscode": "^1.33.0"
@@ -30,12 +31,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Lilac",
-                "uiTheme": "vs-dark",
-                "path": "themes/Lilac-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Lilac",
+            "uiTheme": "vs-dark",
+            "path": "themes/Lilac-color-theme.json"
+        }]
     }
 }
