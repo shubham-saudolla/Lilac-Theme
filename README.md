@@ -54,6 +54,12 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ---
 
+## Lilac for Sublime
+
+Lilac is available for the Sublime Text Editor, [here](https://github.com/shubham-saudolla/Lilac-Sublime).
+
+---
+
 ## Lilac for Firefox
 
 Lilac is available for the Firefox browser, [here](https://addons.mozilla.org/en-US/firefox/addon/lilactheme/).
