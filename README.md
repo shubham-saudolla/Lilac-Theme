@@ -34,7 +34,6 @@ To show support for the project, you can
 
 - [Star the repository.](https://github.com/shubham-saudolla/Lilac-Theme)
 - [Give the theme 5 stars.](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
-- [Follow me on Twitter, and say hi!](https://twitter.com/joyDivided13)
 - [Follow me on Instagram.](https://www.instagram.com/s.phoenix99/)
 - [Donate via PayPal.](https://paypal.me/shubhamsaudolla)
 
