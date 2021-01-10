@@ -22,7 +22,7 @@ This theme improves upon Rainglow's Lavender (Contrast) theme with
 - A coloured highlight for both, the active editor tabs as well as dirty tabs
 - Improved statusbar visibility; the colour of the statusbar indicates whether a workspace or a folder is open or not.
 
-Lilac was designed to be aesthetically pleasing and caters to the pastel-goth chick within me.
+Lilac was designed to be aesthetically pleasant and caters to the pastel-goth chick within me.
 
 The theme is also available for the Firefox browser and the Hyper terminal.
 
