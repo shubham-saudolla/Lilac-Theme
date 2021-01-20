@@ -53,6 +53,12 @@ Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ---
 
+## Lilac on Open VSX Registry
+
+Lilac is avaliable for downstream projects like VSCodium on the Open VSX Registry, [here](https://open-vsx.org/extension/shubham-saudolla/lilac)
+
+---
+
 ## Lilac for Sublime
 
 Lilac is available for the Sublime Text Editor, [here](https://github.com/shubham-saudolla/Lilac-Sublime).
