@@ -1,7 +1,6 @@
 <div align = "center">
-<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/lilacIconFull.png" width = "200"/>
+<img alt="Lilac" src="https://raw.githubusercontent.com/shubham-saudolla/media/master/lilac-theme/LilacHeader.png" width = 350/>
 
-# Lilac
 
 [![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
 [![Installs](https://img.shields.io/visual-studio-marketplace/d/shubham-saudolla.lilac.svg?style=for-the-badge&labelColor=000000&color=a29dfa)](https://marketplace.visualstudio.com/items?itemName=shubham-saudolla.lilac)
